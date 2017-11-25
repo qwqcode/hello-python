@@ -6,9 +6,4 @@
 # import while_example
 # import def_example
 # import import_example
-
-"""
 import class_example
-person = class_example.Person('小明')
-person.age = 14
-"""
