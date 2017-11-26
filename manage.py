@@ -1,3 +1,4 @@
+# import this
 # import if_example
 # import list_example
 # import list_example_2
@@ -8,3 +9,4 @@
 # import import_example
 # import class_example
 # import argparse_example
+import str_example
