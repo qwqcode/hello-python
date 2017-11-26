@@ -9,4 +9,5 @@
 # import import_example
 # import class_example
 # import argparse_example
-import str_example
+# import str_example
+# import download_img_example
